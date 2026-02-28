@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<AccountContainer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Accounts>
+    <Account Account="">
+      <minigameSave>
+        <MinigameSave Minigame="Aceh" MinigameSave="0" />
+        <MinigameSave Minigame="LompatNias" MinigameSave="0" />
+        <MinigameSave Minigame="Dayak" MinigameSave="0" />
+        <MinigameSave Minigame="Jatim" MinigameSave="0" />
+        <MinigameSave Minigame="Karapan" MinigameSave="0" />
+        <MinigameSave Minigame="Cidomo" MinigameSave="0" />
+        <MinigameSave Minigame="Sulawesi" MinigameSave="0" />
+        <MinigameSave Minigame="Papua" MinigameSave="0" />
+      </minigameSave>
+      <penghargaans>
+        <PenghargaanSave>
+          <name>Aceh Bintang 5</name>
+          <isEarned>false</isEarned>
+        </PenghargaanSave>
+        <PenghargaanSave>
+          <name>Nias Bintang 5</name>
+          <isEarned>false</isEarned>
+        </PenghargaanSave>
+        <PenghargaanSave>
+          <name>Jateng Bintang 5</name>
+          <isEarned>false</isEarned>
+        </PenghargaanSave>
+        <PenghargaanSave>
+          <name>Kalimantan Bintang 5</name>
+          <isEarned>false</isEarned>
+        </PenghargaanSave>
+        <PenghargaanSave>
+          <name>Jatim Bintang 5</name>
+          <isEarned>false</isEarned>
+        </PenghargaanSave>
+        <PenghargaanSave>
+          <name>Madura Bintang 5</name>
+          <isEarned>false</isEarned>
+        </PenghargaanSave>
+        <PenghargaanSave>
+          <name>Sulawesi Bintang 5</name>
+          <isEarned>false</isEarned>
+        </PenghargaanSave>
+        <PenghargaanSave>
+          <name>Papua Bintang 5</name>
+          <isEarned>false</isEarned>
+        </PenghargaanSave>
+        <PenghargaanSave>
+          <name>Lombok Bintang 5</name>
+          <isEarned>false</isEarned>
+        </PenghargaanSave>
+        <PenghargaanSave>
+          <name>Semua Bintang</name>
+          <isEarned>false</isEarned>
+        </PenghargaanSave>
+      </penghargaans>
+    </Account>
+    <Account Account="agil">
+      <minigameSave>
+        <MinigameSave Minigame="Aceh" MinigameSave="0" />
+        <MinigameSave Minigame="LompatNias" MinigameSave="0" />
+        <MinigameSave Minigame="Dayak" MinigameSave="0" />
+        <MinigameSave Minigame="Jatim" MinigameSave="0" />
+        <MinigameSave Minigame="Karapan" MinigameSave="0" />
+        <MinigameSave Minigame="Cidomo" MinigameSave="0" />
+        <MinigameSave Minigame="Sulawesi" MinigameSave="0" />
+        <MinigameSave Minigame="Papua" MinigameSave="0" />
+      </minigameSave>
+      <penghargaans>
+        <PenghargaanSave>
+          <name>Aceh Bintang 5</name>
+          <isEarned>false</isEarned>
+        </PenghargaanSave>
+        <PenghargaanSave>
+          <name>Nias Bintang 5</name>
+          <isEarned>false</isEarned>
+        </PenghargaanSave>
+        <PenghargaanSave>
+          <name>Jateng Bintang 5</name>
+          <isEarned>false</isEarned>
+        </PenghargaanSave>
+        <PenghargaanSave>
+          <name>Kalimantan Bintang 5</name>
+          <isEarned>false</isEarned>
+        </PenghargaanSave>
+        <PenghargaanSave>
+          <name>Jatim Bintang 5</name>
+          <isEarned>false</isEarned>
+        </PenghargaanSave>
+        <PenghargaanSave>
+          <name>Madura Bintang 5</name>
+          <isEarned>false</isEarned>
+        </PenghargaanSave>
+        <PenghargaanSave>
+          <name>Sulawesi Bintang 5</name>
+          <isEarned>false</isEarned>
+        </PenghargaanSave>
+        <PenghargaanSave>
+          <name>Papua Bintang 5</name>
+          <isEarned>false</isEarned>
+        </PenghargaanSave>
+        <PenghargaanSave>
+          <name>Lombok Bintang 5</name>
+          <isEarned>false</isEarned>
+        </PenghargaanSave>
+        <PenghargaanSave>
+          <name>Semua Bintang</name>
+          <isEarned>false</isEarned>
+        </PenghargaanSave>
+      </penghargaans>
+    </Account>
+    <Account Account="rizky">
+      <minigameSave>
+        <MinigameSave Minigame="Aceh" MinigameSave="0" />
+        <MinigameSave Minigame="LompatNias" MinigameSave="0" />
+        <MinigameSave Minigame="Dayak" MinigameSave="0" />
+        <MinigameSave Minigame="Jatim" MinigameSave="0" />
+        <MinigameSave Minigame="Karapan" MinigameSave="0" />
+        <MinigameSave Minigame="Cidomo" MinigameSave="0" />
+        <MinigameSave Minigame="Sulawesi" MinigameSave="0" />
+        <MinigameSave Minigame="Papua" MinigameSave="0" />
+      </minigameSave>
+      <penghargaans>
+        <PenghargaanSave>
+          <name>Aceh Bintang 5</name>
+          <isEarned>false</isEarned>
+        </PenghargaanSave>
+        <PenghargaanSave>
+          <name>Nias Bintang 5</name>
+          <isEarned>false</isEarned>
+        </PenghargaanSave>
+        <PenghargaanSave>
+          <name>Jateng Bintang 5</name>
+          <isEarned>false</isEarned>
+        </PenghargaanSave>
+        <PenghargaanSave>
+          <name>Kalimantan Bintang 5</name>
+          <isEarned>false</isEarned>
+        </PenghargaanSave>
+        <PenghargaanSave>
+          <name>Jatim Bintang 5</name>
+          <isEarned>false</isEarned>
+        </PenghargaanSave>
+        <PenghargaanSave>
+          <name>Madura Bintang 5</name>
+          <isEarned>false</isEarned>
+        </PenghargaanSave>
+        <PenghargaanSave>
+          <name>Sulawesi Bintang 5</name>
+          <isEarned>false</isEarned>
+        </PenghargaanSave>
+        <PenghargaanSave>
+          <name>Papua Bintang 5</name>
+          <isEarned>false</isEarned>
+        </PenghargaanSave>
+        <PenghargaanSave>
+          <name>Lombok Bintang 5</name>
+          <isEarned>false</isEarned>
+        </PenghargaanSave>
+        <PenghargaanSave>
+          <name>Semua Bintang</name>
+          <isEarned>false</isEarned>
+        </PenghargaanSave>
+      </penghargaans>
+    </Account>
+  </Accounts>
+  <currentAccount Account="">
+    <minigameSave>
+      <MinigameSave Minigame="Aceh" MinigameSave="0" />
+      <MinigameSave Minigame="LompatNias" MinigameSave="0" />
+      <MinigameSave Minigame="Dayak" MinigameSave="0" />
+      <MinigameSave Minigame="Jatim" MinigameSave="0" />
+      <MinigameSave Minigame="Karapan" MinigameSave="0" />
+      <MinigameSave Minigame="Cidomo" MinigameSave="0" />
+      <MinigameSave Minigame="Sulawesi" MinigameSave="0" />
+      <MinigameSave Minigame="Papua" MinigameSave="0" />
+    </minigameSave>
+    <penghargaans>
+      <PenghargaanSave>
+        <name>Aceh Bintang 5</name>
+        <isEarned>false</isEarned>
+      </PenghargaanSave>
+      <PenghargaanSave>
+        <name>Nias Bintang 5</name>
+        <isEarned>false</isEarned>
+      </PenghargaanSave>
+      <PenghargaanSave>
+        <name>Jateng Bintang 5</name>
+        <isEarned>false</isEarned>
+      </PenghargaanSave>
+      <PenghargaanSave>
+        <name>Kalimantan Bintang 5</name>
+        <isEarned>false</isEarned>
+      </PenghargaanSave>
+      <PenghargaanSave>
+        <name>Jatim Bintang 5</name>
+        <isEarned>false</isEarned>
+      </PenghargaanSave>
+      <PenghargaanSave>
+        <name>Madura Bintang 5</name>
+        <isEarned>false</isEarned>
+      </PenghargaanSave>
+      <PenghargaanSave>
+        <name>Sulawesi Bintang 5</name>
+        <isEarned>false</isEarned>
+      </PenghargaanSave>
+      <PenghargaanSave>
+        <name>Papua Bintang 5</name>
+        <isEarned>false</isEarned>
+      </PenghargaanSave>
+      <PenghargaanSave>
+        <name>Lombok Bintang 5</name>
+        <isEarned>false</isEarned>
+      </PenghargaanSave>
+      <PenghargaanSave>
+        <name>Semua Bintang</name>
+        <isEarned>false</isEarned>
+      </PenghargaanSave>
+    </penghargaans>
+  </currentAccount>
+</AccountContainer>
