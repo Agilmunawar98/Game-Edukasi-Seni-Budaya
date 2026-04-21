@@ -2,7 +2,7 @@
 GAMELAN (Game Mengenal Budaya Nusantara) Inovasi Media Pembelajaran Berbasis Game Desktop sebagai Upaya Pengenalan Budaya Nusantara untuk Siswa Sekolah Dasar
 
 ## Deskripsi Game
-Game ini dibuat sebagai tugas kelompok di mata kuliah pemograman game di kampus Universitas Cendekia Abditama. Game ini merupakan sebuah terobosan dalam metode pembelajaran untuk memperkenalkan budaya Indonesia kepada siswa Sekolah Dasar di Indonesia.
+Game ini dibuat sebagai tugas kelompok di mata kuliah pemograman game di kampus Universitas Cendekia Abditama. Game ini merupakan sebuah terobosan dalam metode pembelajaran untuk memperkenalkan budaya Indonesia kepada siswa Sekolah Menengah Pertama di Indonesia.
 Game ini dibuat menggunakan Unity versi Unity 2017.4.1f1 
 
 ## Berikut adalah Screenshotnya
